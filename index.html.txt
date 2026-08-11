@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidade - Aventura Matemática</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 20px; background-color: #f4f4f9; color: #333; }
+        .container { max-width: 800px; margin: auto; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h1, h2 { color: #0056b3; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Política de Privacidade</h1>
+        <p><strong>Última atualização:</strong> 11 de agosto de 2026</p>
+
+        <p>Esta Política de Privacidade descreve como o aplicativo <strong>Aventura Matemática</strong> lida com as informações dos usuários. Nosso aplicativo foi desenvolvido com foco no público infantil e familiar, e levamos a privacidade a sério.</p>
+
+        <h2>1. Coleta de Dados Pessoais</h2>
+        <p>O <strong>Aventura Matemática</strong> NÃO solicita, coleta, armazena ou compartilha nenhum dado pessoal ou informação de identificação (como nome, endereço, e-mail, localização ou contatos) de seus usuários, incluindo crianças.</p>
+
+        <h2>2. Publicidade e Anúncios (Google AdMob)</h2>
+        <p>O aplicativo exibe anúncios fornecidos pela rede Google AdMob. Para garantir um ambiente seguro para crianças e estar em conformidade com as leis de proteção infantil (como a COPPA e o GDPR), configuramos nossa rede de anúncios da seguinte forma:</p>
+        <ul>
+            <li>Ativamos o <em>Tratamento para direcionamento a crianças</em> (Tag for Child-Directed Treatment).</li>
+            <li>Limitamos a classificação máxima de conteúdo dos anúncios para <strong>Livre (G)</strong>.</li>
+            <li>Desativamos a publicidade personalizada (rastreamento de comportamento) para todos os usuários.</li>
+        </ul>
+        <p>O Google pode coletar informações anônimas de rede e dispositivo unicamente para fornecer e medir o desempenho dos anúncios não personalizados.</p>
+
+        <h2>3. Permissões do Aplicativo</h2>
+        <p>O aplicativo requer apenas as permissões básicas de acesso à internet necessárias para carregar os anúncios não personalizados através da rede AdMob. Nenhuma permissão invasiva (como câmera, microfone ou armazenamento local sensível) é solicitada.</p>
+
+        <h2>4. Alterações nesta Política</h2>
+        <p>Podemos atualizar esta Política de Privacidade de tempos em tempos. Recomendamos que você a revise periodicamente. O uso contínuo do aplicativo após quaisquer alterações constitui sua aceitação da nova política.</p>
+
+        <h2>5. Contato</h2>
+        <p>Se você tiver alguma dúvida sobre esta Política de Privacidade ou sobre as práticas do aplicativo, entre em contato pelo e-mail: <em>eduk4family@gmail.com</em>.</p>
+    </div>
+</body>
+</html>
